@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm J Stuff, A hobbyist coder working on stuff in my own time!
-Reach me @ https://discord.j-stuff.net
+Reach me @ https://j-stuff.net
