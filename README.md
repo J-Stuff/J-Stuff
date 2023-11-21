@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 I'm J Stuff, A hobbyist coder working on stuff in my own time!
 Reach me @ https://j-stuff.net
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Stuff)](https://github.com/anuraghazra/github-readme-stats)
