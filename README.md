@@ -3,7 +3,11 @@
 
 
 I'm J Stuff, A hobbyist coder working on stuff in my own time!
-For the mostpart I stick to Python Backend Development. But I do dabble into other languages at times.
+
+For the mostpart I stick to Python Backend Development.
+<br>
+But I do dabble into other languages at times.
+
 Reach me @ https://j-stuff.net
 
 
