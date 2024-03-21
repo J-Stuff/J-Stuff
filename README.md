@@ -18,4 +18,16 @@ I'm J Stuff, A hobbyist coder working on stuff in my own time!
 Reach me @ https://j-stuff.net
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Stuff&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=transparent" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=J-Stuff&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</a>
+<br>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=600 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JStuff&show_icons=true&theme=transparent&layout=compact" />
+</a>
+
