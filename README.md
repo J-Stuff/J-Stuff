@@ -19,7 +19,7 @@ Reach me @ https://j-stuff.net
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=transparent" />
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Stuff&show_icons=true&theme=transparent" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
